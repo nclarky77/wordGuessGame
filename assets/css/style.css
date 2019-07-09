@@ -1,0 +1,14 @@
+body {
+    background-image: url(../images/cinema.jpg);
+    background-size: cover;
+    display: flex;
+    color: rgb(99, 73, 7);
+}
+
+.container {
+    position: relative;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
